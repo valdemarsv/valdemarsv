@@ -1,4 +1,4 @@
-# Hi 👋 I'm Valdemar
+# Hi 👋 I'm [Valdemar](https://elea.sk/valdemar/cv.pdf)
 
 <img src="https://elea.sk/valdemar/images/slider/1.jpg" width="640">
 
