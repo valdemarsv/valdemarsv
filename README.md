@@ -8,7 +8,7 @@
 <a href="https://orcid.org/0000-0001-8546-280X"><img title="ORCID" height="64" width="64" src="https://cdn.simpleicons.org/orcid"></a>
 <a href="https://www.webofscience.com/wos/author/rid/GPG-1431-2022"><img title="Web of Science" height="64" width="64" src="https://cdn.simpleicons.org/clarivate"></a>
 <a href="https://arxiv.org/a/svabensky_v_1.html"><img title="ArXiv" height="64" width="64" src="https://cdn.simpleicons.org/arxiv"></a>
-<a href="https://www.linkedin.com/in/valdemarsvabensky"><img title="LinkedIn" height="64" width="64" src="https://cdn.simpleicons.org/linkedin"></a>
+<a href="https://www.linkedin.com/in/valdemars"><img title="LinkedIn" height="64" width="64" src="https://cdn.simpleicons.org/linkedin"></a>
 
 <!--
 ### I use tools such as:
