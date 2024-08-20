@@ -11,19 +11,6 @@
 <a href="https://www.linkedin.com/in/valdemars"><img title="LinkedIn" height="64" width="64" src="https://cdn.simpleicons.org/linkedin"></a>
 
 <!--
-### I use tools such as:
-
-<p>
-  <img title="Python" height="32" width="32" src="https://cdn.simpleicons.org/python">
-  <img title="PyCharm" height="32" width="32" src="https://cdn.simpleicons.org/pycharm">
-  <img title="Git" height="32" width="32" src="https://cdn.simpleicons.org/git">
-  <img title="Sublime Text" height="32" width="32" src="https://cdn.simpleicons.org/sublimetext">
-  <img title="LaTeX" height="32" width="32" src="https://cdn.simpleicons.org/latex">
-  <img title="Overleaf" height="32" width="32" src="https://cdn.simpleicons.org/overleaf">
-</p>
--->
-
-<!--
 **valdemarsv/valdemarsv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
